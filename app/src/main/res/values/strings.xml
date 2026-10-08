@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOVA</string>
+    <string name="app_desc"></string>
+    <string name="app_author"></string>
+    <string name="start_path">www/nova-ai _4_.html</string>
+</resources>
